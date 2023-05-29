@@ -1,2 +1,2 @@
 # scRNAseq-Dashboard
- A single cell RNA sequence analysis dashboard made in R shiny. 
+ A web app made in R shiny to analyze single cell RNA sequencing data with Seurat. 
